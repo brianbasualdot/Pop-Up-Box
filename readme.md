@@ -1,7 +1,6 @@
 # Ventana Pop Up
 
  ![Tumbail](./img/pop.png)
- ![Tumbails](./img/closed.png)
 
  > Idea del proyecto 
  ```
